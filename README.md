@@ -7,7 +7,7 @@ Building requires the following to be installed:
 
 * ESP-IDF <https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html>
 * OpenBLAS compiled for ESP32
- - This repo contains a static library for OpenBLAS but you can build your own using <https://github.com/bishopj15/OpenBLAS>.
+ - This repo contains a static library for OpenBLAS but you can build your own using <https://github.com/Technica-Corporation/OpenBLAS>.
 
 
 ### Configure
